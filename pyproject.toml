@@ -1,0 +1,16 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Joshua Wallert", email = "jviper32@users.noreply.github.com"},
+]
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "deepgram-sdk>=2.10.0",
+    "tqdm>=4.65.0",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
